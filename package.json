@@ -1,5 +1,5 @@
 {
-  "name": "vuefify-audio-player",
+  "name": "vuetify-audio-player",
   "version": "0.0.1",
   "description": "A VueJs audio player based on the Vuetify framework",
   "main": "index.js",
