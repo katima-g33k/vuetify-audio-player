@@ -1,0 +1,21 @@
+{
+  "name": "vuefify-audio-player",
+  "version": "0.0.1",
+  "description": "A VueJs audio player based on the Vuetify framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/katima-g33k/vuetify-audio-player.git"
+  },
+  "author": "Jessy Lachapelle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/katima-g33k/vuetify-audio-player/issues"
+  },
+  "homepage": "https://github.com/katima-g33k/vuetify-audio-player#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
